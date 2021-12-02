@@ -1,7 +1,7 @@
-Informations
+Information
 ================
-Dates are in dd.mm.yyyy format  
-Newlines are added using two spaces
+Dates are in dd.mm.yyyy format.  
+Newlines are added using two spaces.
 
 
 2000
